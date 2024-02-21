@@ -30,3 +30,9 @@ header nav div.d-flex{
         width: 150px;
     }
 }
+@media (max-width: 490px){
+    header nav.d-flex div.d-flex{
+        height: auto;
+        width: 120px;
+    }
+}
